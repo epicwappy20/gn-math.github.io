@@ -1,9 +1,9 @@
 :root {
-    --primary: #fc2651;
-    --primary-hover: #e91e47;
+    --primary: #34a1eb;
+    --primary-hover: #34a1eb;
     --primary-light: rgba(252, 38, 81, 0.1);
     --primary-lighter: rgba(252, 38, 81, 0.05);
-    --accent: #8b5cf6;
+    --accent: #34a1eb;
     --accent-light: rgba(139, 92, 246, 0.1);
     --success: #10b981;
     --warning: #f59e0b;
@@ -27,17 +27,17 @@
     --radius-sm: 8px;
     --radius-lg: 16px;
     --radius-xl: 20px;
-    --gradient-primary: linear-gradient(135deg, #fc2651 0%, #e91e47 100%);
-    --gradient-accent: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
+    --gradient-primary: #34a1eb;
+    --gradient-accent: #34a1eb;
     --gradient-surface: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
 }
 
 .dark-mode {
-    --primary: #fc2651;
-    --primary-hover: #ff4d75;
+    --primary: #34a1eb;
+    --primary-hover: #34a1eb;
     --primary-light: rgba(252, 38, 81, 0.15);
     --primary-lighter: rgba(252, 38, 81, 0.08);
-    --accent: #a855f7;
+    --accent: #34a1eb;
     --accent-light: rgba(168, 85, 247, 0.15);
     --success: #34d399;
     --warning: #fbbf24;
@@ -57,8 +57,8 @@
     --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.6), 0 4px 6px -4px rgb(0 0 0 / 0.6);
     --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.7), 0 8px 10px -6px rgb(0 0 0 / 0.7);
     --shadow-glow: 0 0 20px rgba(252, 38, 81, 0.4);
-    --gradient-primary: linear-gradient(135deg, #fc2651 0%, #ff4d75 100%);
-    --gradient-accent: linear-gradient(135deg, #a855f7 0%, #9333ea 100%);
+    --gradient-primary: #34a1eb;
+    --gradient-accent: #34a1eb;
     --gradient-surface: linear-gradient(135deg, #1e293b 0%, #334155 100%);
 }
 
@@ -597,4 +597,5 @@ footer {
     .zone-item:hover {
         transform: translateY(-4px) scale(1.01);
     }
+
 }
