@@ -1,0 +1,103 @@
+[
+
+   {
+    "id": 425,
+    "name": "Deltarune",
+    "cover": "{COVER_URL}/425.png",
+    "url": "{HTML_URL}/425.html",
+    "author": "Toby Fox",
+    "authorLink": "https://deltarune.com",
+    "featured": true
+  },
+  {
+    "id": 427,
+    "name": "OMORI",
+    "cover": "{COVER_URL}/427.png",
+    "url": "{HTML_URL}/427.html",
+    "author": "Omocat",
+    "authorLink": "https://omocat.com",
+    "featured": true
+  },
+ {
+    "id": 468,
+    "name": "Hollow Knight",
+    "cover": "{COVER_URL}/468.png",
+    "url": "{HTML_URL}/468.html",
+    "author": "Team Cherry",
+    "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
+    "featured": true
+  },
+ {
+    "id": 184,
+    "name": "Undertale",
+    "cover": "{COVER_URL}/184.png",
+    "url": "{HTML_URL}/184.html",
+    "author": "Toby Fox, BluePhoenix25",
+    "authorLink": "https://scratch.mit.edu/projects/791527350",
+    "featured": true
+  },
+  {
+    "id": 181,
+    "name": "Minecraft 1.8.8",
+    "cover": "{COVER_URL}/181.png",
+    "url": "{HTML_URL}/181.html",
+    "author": "lax1dude",
+    "authorLink": "https://eaglercraft.com"
+  },
+  {
+    "id": 59,
+    "name": "A Dance of Fire and Ice",
+    "cover": "{COVER_URL}/59.png",
+    "url": "{HTML_URL}/59.html",
+    "author": "",
+    "authorLink": ""
+  },
+  {
+    "id": 456,
+    "name": "Undertale Yellow",
+    "cover": "{COVER_URL}/456.png",
+    "url": "{HTML_URL}/456.html",
+    "author": "Team Undertale Yellow",
+    "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925"
+  },
+  {
+    "id": 465,
+    "name": "Cuphead",
+    "cover": "{COVER_URL}/465.png",
+    "url": "{HTML_URL}/465.html",
+    "author": "Studio MDHR Entertainment Inc",
+    "authorLink": "https://store.steampowered.com/app/268910/Cuphead",
+    "featured": true
+  },
+ {
+    "id": 429,
+    "name": "Code Editor",
+    "cover": "{COVER_URL}/429.png",
+    "url": "{HTML_URL}/429.html",
+    "author": "gn-math",
+    "authorLink": "https://gn-math.github.io"
+  },
+ {
+    "id": 87,
+    "name": "Emulator.JS",
+    "cover": "{COVER_URL}/87.png",
+    "url": "{HTML_URL}/87.html",
+    "author": "",
+    "authorLink": ""
+  },
+  {
+    "id": 113,
+    "name": "Ruffle",
+    "cover": "{COVER_URL}/113.png",
+    "url": "{HTML_URL}/113.html",
+    "author": "",
+    "authorLink": ""
+  },
+
+
+
+
+
+
+
+]
